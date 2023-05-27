@@ -1,0 +1,48 @@
+2023-05-27T23:58:57.491585600 : Smoke Sensor detect smoke
+2023-05-27T23:58:57.512585200 : Sending text SMS: Smoke detected! to 1234567890
+2023-05-27T23:58:57.512585200 : Advanced water sprinkler turned on.
+2023-05-27T23:58:57.512585200 : Smoke Sensor System deactivate Water Sprinkler
+2023-05-27T23:58:57.512585200 : Advanced water sprinkler turned off.
+2023-05-27T23:58:57.512585200 : Issue solved! System is ready for next detection.
+2023-05-27T23:58:57.512585200 : Smoke Sensor detect smoke
+2023-05-27T23:58:57.512585200 : Motion Sensor System detect
+2023-05-27T23:58:57.512585200 : Motion Sensor detect motion
+2023-05-27T23:58:57.512585200 : Motion Sensor System send Alert
+2023-05-27T23:58:57.520596300 : Sending plain text email: Motion detected! - Security Alert to Muhammad-saad-01@outlook.com
+2023-05-27T23:58:57.520596300 : Motion Sensor System activate Alarm
+2023-05-27T23:58:57.520596300 : Advanced alarm turned on.
+2023-05-27T23:58:57.520596300 : Motion Sensor System deactivate Alarm
+2023-05-27T23:58:57.520596300 : Advanced alarm turned off.
+2023-05-27T23:58:57.520596300 : Issue solved! System is ready for next detection.
+2023-05-28T00:00:23.4399066 Smoke Sensor detect smoke
+2023-05-28T00:00:23.466438 Sending text SMS: Smoke detected! to 1234567890
+2023-05-28T00:00:23.466438 Advanced water sprinkler turned on.
+2023-05-28T00:00:23.466438 Smoke Sensor System deactivate Water Sprinkler
+2023-05-28T00:00:23.466438 Advanced water sprinkler turned off.
+2023-05-28T00:00:23.466438 Issue solved! System is ready for next detection.
+2023-05-28T00:00:23.466438 Smoke Sensor detect smoke
+2023-05-28T00:00:23.466438 Motion Sensor System detect
+2023-05-28T00:00:23.4674407 Motion Sensor detect motion
+2023-05-28T00:00:23.4674407 Motion Sensor System send Alert
+2023-05-28T00:00:23.476436 Sending plain text email: Motion detected! - Security Alert to Muhammad-saad-01@outlook.com
+2023-05-28T00:00:23.476436 Motion Sensor System activate Alarm
+2023-05-28T00:00:23.476436 Advanced alarm turned on.
+2023-05-28T00:00:23.476436 Motion Sensor System deactivate Alarm
+2023-05-28T00:00:23.476436 Advanced alarm turned off.
+2023-05-28T00:00:23.476436 Issue solved! System is ready for next detection.
+2023-05-28T00:00:30.1316702 Smoke Sensor detect smoke
+2023-05-28T00:00:30.1536817 Sending text SMS: Smoke detected! to 1234567890
+2023-05-28T00:00:30.1546809 Advanced water sprinkler turned on.
+2023-05-28T00:00:30.1546809 Smoke Sensor System deactivate Water Sprinkler
+2023-05-28T00:00:30.1546809 Advanced water sprinkler turned off.
+2023-05-28T00:00:30.1546809 Issue solved! System is ready for next detection.
+2023-05-28T00:00:30.1546809 Smoke Sensor detect smoke
+2023-05-28T00:00:30.1546809 Motion Sensor System detect
+2023-05-28T00:00:30.1546809 Motion Sensor detect motion
+2023-05-28T00:00:30.1546809 Motion Sensor System send Alert
+2023-05-28T00:00:30.1636813 Sending plain text email: Motion detected! - Security Alert to Muhammad-saad-01@outlook.com
+2023-05-28T00:00:30.1636813 Motion Sensor System activate Alarm
+2023-05-28T00:00:30.1636813 Advanced alarm turned on.
+2023-05-28T00:00:30.1636813 Motion Sensor System deactivate Alarm
+2023-05-28T00:00:30.1646795 Advanced alarm turned off.
+2023-05-28T00:00:30.1646795 Issue solved! System is ready for next detection.
